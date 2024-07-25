@@ -1,0 +1,17 @@
+/*布局*/
+
+.container{
+	padding: 10px;
+}
+.xy-center,
+.yx-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+// 1行省略
+.wrap1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

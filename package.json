@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.10",
+    "svgo": "^3.2.0",
+	"svgicon": "node ./uni_modules/zui-svg-icon/tools/generate-svg-icon.js"
+  }
+}
